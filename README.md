@@ -44,4 +44,5 @@ This is a final project for a database class that demonstrates the integration o
    ```
 
 📝 License
+
 This project is for educational purposes.
