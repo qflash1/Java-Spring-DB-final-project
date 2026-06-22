@@ -26,19 +26,19 @@ This is a final project for a database class that demonstrates the integration o
 1. Clone the repository:
    ```bash
    git clone git@github.com:qflash1/Java-Spring-DB-final-project.git
-   cd Java-Spring-DB-final-project```
+   cd Java-Spring-DB-final-project ```
 
 2. Configure your PostgreSQL database connection in application.properties
 
 3. Build the project:
 
    ```bash
-   mvn clean install```
+   mvn clean install ```
 
 3. Run the application:
 
    ```bash
-   mvn spring-boot:run```
+   mvn spring-boot:run ```
 
 📝 License
 This project is for educational purposes.
